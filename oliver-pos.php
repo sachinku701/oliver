@@ -24,6 +24,7 @@ if (!defined('OLIVER_POS_PLUGIN_FILE')) {
 // Include the main WooCommerce class.
 if (!class_exists('Pos_Bridge')) {
     include_once dirname(__FILE__) . '/includes/class-pos-bridge.php';
+    //include_once dirname(__FILE__) . '/includes/class-pos-bridge.php';
 }
 
 /**
