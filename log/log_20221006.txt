@@ -1,0 +1,10 @@
+04:30:52 - warehouse deleted =1
+04:30:52 - warehouse deleted =2
+06:17:41 - Start update product trigger
+06:17:41 - End update product trigger
+06:17:42 - Start update product trigger
+06:17:42 - End update product trigger
+06:17:43 - Start update product trigger
+06:17:43 - End update product trigger
+06:17:43 - Start update product trigger
+06:17:43 - End update product trigger

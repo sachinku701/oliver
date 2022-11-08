@@ -1,0 +1,84 @@
+06:13:19 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:13:19 - Not occur wp_error
+06:13:19 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:13:19 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:13:19 - oliver_pos_subscription_udid = 6793131033
+06:13:19 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:13:28 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:13:29 - Not occur wp_error
+06:13:29 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:13:29 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:13:29 - oliver_pos_subscription_udid = 6793131033
+06:13:29 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:13:48 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:13:48 - Not occur wp_error
+06:13:48 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:13:48 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:13:48 - oliver_pos_subscription_udid = 6793131033
+06:13:48 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:14:25 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:14:25 - Not occur wp_error
+06:14:25 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:14:25 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:14:25 - oliver_pos_subscription_udid = 6793131033
+06:14:25 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:14:54 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:14:54 - Not occur wp_error
+06:14:54 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:14:54 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:14:54 - oliver_pos_subscription_udid = 6793131033
+06:14:54 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:15:06 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:15:06 - Not occur wp_error
+06:15:06 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:15:06 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:15:06 - oliver_pos_subscription_udid = 6793131033
+06:15:06 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:56:47 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:56:47 - Not occur wp_error
+06:56:47 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:56:47 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:56:47 - oliver_pos_subscription_udid = 6793131033
+06:56:47 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:37:41 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+08:37:41 - Not occur wp_error
+08:37:41 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:37:41 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+08:37:41 - oliver_pos_subscription_udid = 6793131033
+08:37:41 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:37:58 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+08:37:59 - Not occur wp_error
+08:37:59 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:37:59 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+08:37:59 - oliver_pos_subscription_udid = 6793131033
+08:37:59 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:38:24 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+08:38:24 - Not occur wp_error
+08:38:24 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:38:24 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+08:38:24 - oliver_pos_subscription_udid = 6793131033
+08:38:24 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:15:51 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+09:15:51 - Not occur wp_error
+09:15:51 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:15:51 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+09:15:51 - oliver_pos_subscription_udid = 6793131033
+09:15:51 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:17:05 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+09:17:05 - Not occur wp_error
+09:17:05 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:17:05 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+09:17:05 - oliver_pos_subscription_udid = 6793131033
+09:17:05 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+10:22:54 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+10:22:55 - Not occur wp_error
+10:22:55 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+10:22:55 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+10:22:55 - oliver_pos_subscription_udid = 6793131033
+10:22:55 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+10:46:22 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+10:46:23 - Not occur wp_error
+10:46:23 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+10:46:23 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+10:46:23 - oliver_pos_subscription_udid = 6793131033
+10:46:23 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f

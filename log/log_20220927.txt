@@ -1,0 +1,78 @@
+05:54:31 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+05:54:31 - Not occur wp_error
+05:54:31 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+05:54:31 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+05:54:31 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+05:54:31 - oliver_pos_subscription_udid = 6793131033
+05:54:31 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+07:40:54 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+07:40:54 - Not occur wp_error
+07:40:54 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+07:40:54 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+07:40:54 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+07:40:54 - oliver_pos_subscription_udid = 6793131033
+07:40:54 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:39:15 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+08:39:15 - Not occur wp_error
+08:39:15 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+08:39:15 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+08:39:15 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+08:39:15 - oliver_pos_subscription_udid = 6793131033
+08:39:15 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:02:36 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+09:02:37 - Not occur wp_error
+09:02:37 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+09:02:37 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+09:02:37 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+09:02:37 - oliver_pos_subscription_udid = 6793131033
+09:02:37 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+10:40:39 - Start create product trigger
+10:40:39 - End create product trigger
+10:40:40 - Start update product trigger
+10:40:40 - End update product trigger
+10:40:40 - activate plugin
+10:42:40 - Start List of Activate Plugins
+10:42:40 - atum-stock-manager-for-woocommerce/atum-stock-manager-for-woocommerce.php
+10:42:40 - classic-editor/classic-editor.php
+10:42:40 - dokan-lite/dokan.php
+10:42:40 - elementor-pro 2/elementor-pro.php
+10:42:40 - elementor/elementor.php
+10:42:40 - oliver-pos/oliver-pos.php
+10:42:40 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+10:42:40 - woocommerce-product-addons/woocommerce-product-addons.php
+10:42:40 - woocommerce-product-bundles/woocommerce-product-bundles.php
+10:42:40 - woocommerce-services/woocommerce-services.php
+10:42:40 - woocommerce-subscriptions/woocommerce-subscriptions.php
+10:42:40 - woocommerce/woocommerce.php
+10:42:40 - yith-woocommerce-multi-step-checkout-premium/init.php
+10:42:40 - End List of Activate Plugins
+10:42:40 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+10:48:24 - activate plugin
+10:50:23 - Start List of Activate Plugins
+10:50:23 - atum-stock-manager-for-woocommerce/atum-stock-manager-for-woocommerce.php
+10:50:23 - classic-editor/classic-editor.php
+10:50:23 - dokan-lite/dokan.php
+10:50:23 - dokan-pro/dokan-pro.php
+10:50:23 - elementor-pro 2/elementor-pro.php
+10:50:23 - elementor/elementor.php
+10:50:23 - oliver-pos/oliver-pos.php
+10:50:23 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+10:50:23 - woocommerce-product-addons/woocommerce-product-addons.php
+10:50:23 - woocommerce-product-bundles/woocommerce-product-bundles.php
+10:50:23 - woocommerce-services/woocommerce-services.php
+10:50:23 - woocommerce-subscriptions/woocommerce-subscriptions.php
+10:50:23 - woocommerce/woocommerce.php
+10:50:23 - yith-woocommerce-multi-step-checkout-premium/init.php
+10:50:23 - End List of Activate Plugins
+10:50:24 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+10:54:00 - Start create product trigger
+10:54:00 - End create product trigger
+10:54:00 - Start update product trigger
+10:54:00 - End update product trigger
+10:54:00 - Start update product trigger
+10:54:00 - End update product trigger
+10:54:04 - 590=product addons 0
+10:54:07 - Start update product trigger
+10:54:07 - End update product trigger
+10:54:07 - Start update product trigger
+10:54:07 - End update product trigger

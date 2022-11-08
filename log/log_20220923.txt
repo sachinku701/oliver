@@ -1,0 +1,176 @@
+12:21:25 - activate plugin
+13:26:22 - warehouse_id = 1
+13:26:22 - product_id = 64
+13:26:22 - quantity = 980
+13:26:23 - Start update product trigger
+13:26:23 - End update product trigger
+13:30:50 - warehouse_id = 1
+13:30:50 - product_id = 64
+13:30:50 - quantity = 976
+13:30:50 - Start update product trigger
+13:30:50 - End update product trigger
+13:36:02 - warehouse_id = 1
+13:36:02 - product_id = 64
+13:36:02 - quantity = 980
+13:36:02 - Start update product trigger
+13:36:02 - End update product trigger
+13:40:04 - warehouse_id = 1
+13:40:04 - product_id = 64
+13:40:04 - quantity = 980
+13:40:04 - Start update product trigger
+13:40:04 - End update product trigger
+13:54:35 - activate plugin
+13:56:44 - Start List of Activate Plugins
+13:56:44 - ameliabooking/ameliabooking.php
+13:56:44 - atum-stock-manager-for-woocommerce/atum-stock-manager-for-woocommerce.php
+13:56:44 - automatewoo-referrals/automatewoo-referrals.php
+13:56:44 - automatewoo/automatewoo.php
+13:56:44 - child-theme-configurator/child-theme-configurator.php
+13:56:44 - classic-editor/classic-editor.php
+13:56:44 - elementor-pro 2/elementor-pro.php
+13:56:44 - elementor/elementor.php
+13:56:44 - google-listings-and-ads/google-listings-and-ads.php
+13:56:44 - jetpack/jetpack.php
+13:56:44 - leadin/leadin.php
+13:56:44 - malcare-security/malcare.php
+13:56:44 - new-order-notification-for-woocommerce/new-order-notification.php
+13:56:44 - oliver-pos/oliver-pos.php
+13:56:44 - product-slider/product-slider.php
+13:56:44 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+13:56:44 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+13:56:44 - woocommerce-product-addons/woocommerce-product-addons.php
+13:56:44 - woocommerce-product-bundles/woocommerce-product-bundles.php
+13:56:44 - woocommerce-services/woocommerce-services.php
+13:56:44 - woocommerce-subscriptions/woocommerce-subscriptions.php
+13:56:44 - woocommerce/woocommerce.php
+13:56:44 - End List of Activate Plugins
+13:56:44 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+13:59:50 - warehouse_id = 1
+13:59:50 - product_id = 64
+13:59:50 - quantity = 985
+13:59:50 - Start update product trigger
+13:59:50 - End update product trigger
+14:01:19 - de-activate plugin
+14:01:19 - activate plugin
+14:01:28 - de-activate plugin
+14:01:28 - activate plugin
+14:01:37 - de-activate plugin
+14:01:37 - activate plugin
+14:02:48 - warehouse_id = 1
+14:02:48 - product_id = 64
+14:02:48 - quantity = 983
+14:02:48 - Start update product trigger
+14:02:48 - End update product trigger
+14:04:47 - === === ===
+14:04:47 - Start oliver_pos_update_customer trigger
+14:04:47 - Stop oliver_pos_update_customer trigger
+14:04:48 - New order trigger
+14:04:48 - Update order trigger
+14:04:48 - Start update product trigger
+14:04:48 - End update product trigger
+14:04:48 - 590=product addons 0
+14:04:48 - unhook_oliver_order_emails_admin = 709
+14:04:48 - unhook_oliver_order_emails_admin = 709
+14:04:48 - Update order trigger
+14:04:48 - unhook_oliver_order_emails_customer = 709
+14:04:48 - unhook_oliver_order_emails_customer = 709
+14:04:58 - update order trigger delay
+14:05:46 - Start update product trigger
+14:05:46 - End update product trigger
+14:05:46 - 590=product addons 0
+14:05:46 - Start update product trigger
+14:05:46 - End update product trigger
+14:05:46 - 590=product addons 0
+14:05:47 - Start update product trigger
+14:05:47 - End update product trigger
+14:05:47 - 590=product addons 0
+14:05:47 - Start update product trigger
+14:05:47 - End update product trigger
+14:05:47 - 590=product addons 0
+14:06:28 - === === ===
+14:06:28 - Start oliver_pos_update_customer trigger
+14:06:28 - Stop oliver_pos_update_customer trigger
+14:06:28 - New order trigger
+14:06:28 - Update order trigger
+14:06:28 - Start update product trigger
+14:06:28 - End update product trigger
+14:06:28 - 590=product addons 0
+14:06:28 - unhook_oliver_order_emails_admin = 710
+14:06:28 - unhook_oliver_order_emails_admin = 710
+14:06:28 - Update order trigger
+14:06:28 - unhook_oliver_order_emails_customer = 710
+14:06:28 - unhook_oliver_order_emails_customer = 710
+14:07:07 - update order trigger delay
+14:35:58 - warehouse_id = 1
+14:35:58 - product_id = 64
+14:35:58 - quantity = 981
+14:35:58 - Start update product trigger
+14:35:58 - End update product trigger
+14:41:14 - de-activate plugin
+14:41:14 - activate plugin
+14:41:20 - de-activate plugin
+14:41:20 - activate plugin
+14:42:06 - de-activate plugin
+14:42:06 - activate plugin
+14:42:43 - de-activate plugin
+14:42:43 - activate plugin
+15:29:32 - warehouse_id = 1
+15:29:32 - product_id = 64
+15:29:32 - quantity = 980
+15:29:32 - Start update product trigger
+15:29:32 - End update product trigger
+15:31:26 - warehouse_id = 1
+15:31:26 - product_id = 64
+15:31:26 - quantity = 990
+15:31:26 - Start update product trigger
+15:31:26 - End update product trigger
+15:41:02 - warehouse_id = 1
+15:41:02 - product_id = 157
+15:41:02 - quantity = 990
+15:41:02 - Start update product trigger
+15:41:02 - End update product trigger
+15:41:45 - warehouse_id = 1
+15:41:45 - product_id = 157
+15:41:45 - quantity = 990
+15:41:45 - Start update product trigger
+15:41:45 - End update product trigger
+15:44:31 - warehouse_id = 1
+15:44:31 - product_id = 157
+15:44:31 - quantity = 985
+15:44:31 - Start update product trigger
+15:44:31 - End update product trigger
+15:45:54 - warehouse_id = 1
+15:45:54 - product_id = 157
+15:45:54 - quantity = 990
+15:45:54 - Start update product trigger
+15:45:54 - End update product trigger
+15:47:53 - warehouse_id = 1
+15:47:53 - product_id = 157
+15:47:53 - quantity = 980
+15:47:53 - Start update product trigger
+15:47:53 - End update product trigger
+15:50:32 - warehouse_id = 1
+15:50:32 - product_id = 157
+15:50:32 - quantity = 988
+15:50:32 - Start update product trigger
+15:50:32 - End update product trigger
+15:55:03 - warehouse_id = 1
+15:55:03 - product_id = 157
+15:55:03 - quantity = 985
+15:55:03 - Start update product trigger
+15:55:03 - End update product trigger
+15:59:54 - warehouse_id = 1
+15:59:54 - product_id = 157
+15:59:54 - quantity = 988
+15:59:54 - Start update product trigger
+15:59:54 - End update product trigger
+16:02:19 - warehouse_id = 1
+16:02:19 - product_id = 193
+16:02:19 - quantity = 99
+16:02:19 - Start update product trigger
+16:02:19 - End update product trigger
+16:21:05 - warehouse_id = 1
+16:21:05 - product_id = 193
+16:21:05 - quantity = 200
+16:21:06 - Start update product trigger
+16:21:06 - End update product trigger

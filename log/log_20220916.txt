@@ -1,0 +1,26 @@
+04:34:09 - Start List of Activate Plugins
+04:34:09 - ameliabooking/ameliabooking.php
+04:34:09 - classic-editor/classic-editor.php
+04:34:09 - elementor-pro 2/elementor-pro.php
+04:34:09 - elementor/elementor.php
+04:34:09 - google-listings-and-ads/google-listings-and-ads.php
+04:34:09 - jetpack/jetpack.php
+04:34:09 - leadin/leadin.php
+04:34:09 - malcare-security/malcare.php
+04:34:09 - new-order-notification-for-woocommerce/new-order-notification.php
+04:34:09 - oliver-pos/oliver-pos.php
+04:34:09 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+04:34:09 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+04:34:09 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:34:09 - woocommerce-services/woocommerce-services.php
+04:34:09 - woocommerce-subscriptions/woocommerce-subscriptions.php
+04:34:09 - woocommerce/woocommerce.php
+04:34:09 - End List of Activate Plugins
+04:34:12 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+06:05:19 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:05:19 - Not occur wp_error
+06:05:19 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+06:05:19 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:05:19 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:05:19 - oliver_pos_subscription_udid = 6793131033
+06:05:19 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f

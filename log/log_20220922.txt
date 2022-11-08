@@ -1,0 +1,154 @@
+04:08:03 - warehouse deleted =1
+04:14:23 - activate plugin
+04:14:46 - Start List of Activate Plugins
+04:14:46 - ameliabooking/ameliabooking.php
+04:14:46 - automatewoo-referrals/automatewoo-referrals.php
+04:14:46 - automatewoo/automatewoo.php
+04:14:46 - child-theme-configurator/child-theme-configurator.php
+04:14:46 - classic-editor/classic-editor.php
+04:14:46 - elementor-pro 2/elementor-pro.php
+04:14:46 - elementor/elementor.php
+04:14:46 - google-listings-and-ads/google-listings-and-ads.php
+04:14:46 - jetpack/jetpack.php
+04:14:46 - leadin/leadin.php
+04:14:46 - malcare-security/malcare.php
+04:14:46 - new-order-notification-for-woocommerce/new-order-notification.php
+04:14:46 - oliver-pos/oliver-pos.php
+04:14:46 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+04:14:46 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+04:14:46 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:14:46 - woocommerce-services/woocommerce-services.php
+04:14:46 - woocommerce-subscriptions/woocommerce-subscriptions.php
+04:14:46 - woocommerce/woocommerce.php
+04:14:46 - End List of Activate Plugins
+04:14:46 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+04:15:43 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+04:15:43 - Not occur wp_error
+04:15:43 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+04:15:43 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+04:15:43 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+04:15:43 - oliver_pos_subscription_udid = 6793131033
+04:15:43 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+04:29:35 - === === ===
+04:29:35 - Start oliver_pos_update_customer trigger
+04:29:40 - Stop oliver_pos_update_customer trigger
+04:29:40 - New order trigger
+04:29:41 - Update order trigger
+04:29:41 - Update order trigger
+04:29:41 - Start update product trigger
+04:29:41 - End update product trigger
+04:29:42 - Start update product trigger
+04:29:42 - End update product trigger
+04:29:42 - unhook_oliver_order_emails_admin = 703
+04:29:42 - unhook_oliver_order_emails_admin = 703
+04:29:43 - Update order trigger
+04:29:43 - unhook_oliver_order_emails_customer = 703
+04:29:43 - unhook_oliver_order_emails_customer = 703
+04:29:43 - Update order trigger
+04:29:46 - update order trigger delay
+04:54:10 - Start update product trigger
+04:54:10 - End update product trigger
+04:54:11 - Start update product trigger
+04:54:11 - End update product trigger
+04:54:11 - Start update product trigger
+04:54:11 - End update product trigger
+04:55:31 - Start update product trigger
+04:55:31 - End update product trigger
+04:55:31 - Start update product trigger
+04:55:31 - End update product trigger
+04:55:31 - Start update product trigger
+04:55:31 - End update product trigger
+04:57:41 - activate plugin
+04:59:48 - Start List of Activate Plugins
+04:59:48 - ameliabooking/ameliabooking.php
+04:59:48 - automatewoo-referrals/automatewoo-referrals.php
+04:59:48 - automatewoo/automatewoo.php
+04:59:48 - child-theme-configurator/child-theme-configurator.php
+04:59:48 - classic-editor/classic-editor.php
+04:59:48 - elementor-pro 2/elementor-pro.php
+04:59:48 - elementor/elementor.php
+04:59:48 - google-listings-and-ads/google-listings-and-ads.php
+04:59:48 - jetpack/jetpack.php
+04:59:48 - leadin/leadin.php
+04:59:48 - malcare-security/malcare.php
+04:59:48 - new-order-notification-for-woocommerce/new-order-notification.php
+04:59:48 - oliver-pos/oliver-pos.php
+04:59:48 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+04:59:48 - woo-product-gallery-slider/woo-product-gallery-slider.php
+04:59:48 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+04:59:48 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:59:48 - woocommerce-services/woocommerce-services.php
+04:59:48 - woocommerce-subscriptions/woocommerce-subscriptions.php
+04:59:48 - woocommerce/woocommerce.php
+04:59:48 - End List of Activate Plugins
+04:59:48 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+05:10:56 - de-activate plugin
+05:10:56 - activate plugin
+05:16:34 - Start List of Activate Plugins
+05:16:34 - ameliabooking/ameliabooking.php
+05:16:34 - automatewoo-referrals/automatewoo-referrals.php
+05:16:34 - automatewoo/automatewoo.php
+05:16:34 - child-theme-configurator/child-theme-configurator.php
+05:16:34 - classic-editor/classic-editor.php
+05:16:34 - elementor-pro 2/elementor-pro.php
+05:16:34 - elementor/elementor.php
+05:16:34 - google-listings-and-ads/google-listings-and-ads.php
+05:16:34 - jetpack/jetpack.php
+05:16:34 - leadin/leadin.php
+05:16:34 - malcare-security/malcare.php
+05:16:34 - new-order-notification-for-woocommerce/new-order-notification.php
+05:16:34 - oliver-pos/oliver-pos.php
+05:16:34 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+05:16:34 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+05:16:34 - woocommerce-product-bundles/woocommerce-product-bundles.php
+05:16:34 - woocommerce-services/woocommerce-services.php
+05:16:34 - woocommerce-subscriptions/woocommerce-subscriptions.php
+05:16:34 - woocommerce/woocommerce.php
+05:16:34 - End List of Activate Plugins
+05:16:34 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+05:16:35 - activate plugin
+05:17:25 - Start update product trigger
+05:17:25 - End update product trigger
+05:17:25 - Start update product trigger
+05:17:25 - End update product trigger
+05:17:25 - Start update product trigger
+05:17:25 - End update product trigger
+05:17:25 - Start update product trigger
+05:17:25 - End update product trigger
+05:17:44 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+05:17:44 - Not occur wp_error
+05:17:44 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+05:17:44 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+05:17:44 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+05:17:44 - oliver_pos_subscription_udid = 6793131033
+05:17:44 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+05:23:02 - Start update product trigger
+05:23:02 - End update product trigger
+05:23:02 - 590=product addons 0
+05:23:02 - Start update product trigger
+05:23:02 - End update product trigger
+05:23:02 - 590=product addons 0
+05:23:02 - Start update product trigger
+05:23:02 - End update product trigger
+05:23:02 - 590=product addons 0
+05:23:03 - Start update product trigger
+05:23:03 - End update product trigger
+05:23:03 - 590=product addons 0
+08:54:32 - Update order trigger
+08:54:32 - Update order trigger
+08:54:32 - Update order trigger
+08:55:12 - update order trigger delay
+08:55:18 - Update order trigger
+08:55:18 - Update order trigger
+08:55:18 - Update order trigger
+08:55:23 - update order trigger delay
+09:33:04 - activate plugin
+10:01:35 - de-activate plugin
+10:01:35 - activate plugin
+11:54:13 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+11:54:13 - Not occur wp_error
+11:54:13 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+11:54:13 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:54:13 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+11:54:13 - oliver_pos_subscription_udid = 6793131033
+11:54:13 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f

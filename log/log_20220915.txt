@@ -1,0 +1,20 @@
+06:53:07 - activate plugin
+06:55:31 - Start List of Activate Plugins
+06:55:31 - ameliabooking/ameliabooking.php
+06:55:31 - classic-editor/classic-editor.php
+06:55:31 - elementor-pro 2/elementor-pro.php
+06:55:31 - elementor/elementor.php
+06:55:31 - google-listings-and-ads/google-listings-and-ads.php
+06:55:31 - jetpack/jetpack.php
+06:55:31 - leadin/leadin.php
+06:55:31 - malcare-security/malcare.php
+06:55:31 - new-order-notification-for-woocommerce/new-order-notification.php
+06:55:31 - oliver-pos/oliver-pos.php
+06:55:31 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+06:55:31 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+06:55:31 - woocommerce-product-bundles/woocommerce-product-bundles.php
+06:55:31 - woocommerce-services/woocommerce-services.php
+06:55:31 - woocommerce-subscriptions/woocommerce-subscriptions.php
+06:55:31 - woocommerce/woocommerce.php
+06:55:31 - End List of Activate Plugins
+06:55:31 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5

@@ -1,0 +1,32 @@
+11:37:48 - === post woo general setting ===
+12:21:25 - Start update product trigger
+12:21:25 - End update product trigger
+12:21:26 - Start update product trigger
+12:21:26 - End update product trigger
+12:21:26 - Start update product trigger
+12:21:26 - End update product trigger
+13:08:08 - de-activate plugin
+13:08:08 - activate plugin
+18:46:38 - de-activate plugin
+18:46:38 - activate plugin
+18:48:46 - Start List of Activate Plugins
+18:48:46 - ameliabooking/ameliabooking.php
+18:48:46 - automatewoo-referrals/automatewoo-referrals.php
+18:48:46 - automatewoo/automatewoo.php
+18:48:46 - classic-editor/classic-editor.php
+18:48:46 - elementor-pro 2/elementor-pro.php
+18:48:46 - elementor/elementor.php
+18:48:46 - google-listings-and-ads/google-listings-and-ads.php
+18:48:46 - jetpack/jetpack.php
+18:48:46 - leadin/leadin.php
+18:48:46 - malcare-security/malcare.php
+18:48:46 - new-order-notification-for-woocommerce/new-order-notification.php
+18:48:46 - oliver-pos/oliver-pos.php
+18:48:46 - woo-conditional-discount-rules-for-checkout/woo-conditional-discount-rules-for-checkout.php
+18:48:46 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+18:48:46 - woocommerce-product-bundles/woocommerce-product-bundles.php
+18:48:46 - woocommerce-services/woocommerce-services.php
+18:48:46 - woocommerce-subscriptions/woocommerce-subscriptions.php
+18:48:46 - woocommerce/woocommerce.php
+18:48:46 - End List of Activate Plugins
+18:48:47 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5

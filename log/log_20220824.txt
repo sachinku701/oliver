@@ -1,0 +1,10 @@
+09:02:53 - Start List of Activate Plugins
+09:02:53 - ameliabooking/ameliabooking.php
+09:02:53 - google-listings-and-ads/google-listings-and-ads.php
+09:02:53 - jetpack/jetpack.php
+09:02:53 - malcare-security/malcare.php
+09:02:53 - oliver-pos/oliver-pos.php
+09:02:53 - woocommerce-services/woocommerce-services.php
+09:02:53 - woocommerce/woocommerce.php
+09:02:53 - End List of Activate Plugins
+09:02:53 - trigger_update_version_number = https://app.oliverpos.com/api/WCBridge/ChangeBridgeVersion/?clientId=26548a01-97df-4122-b3f7-221c8188ae1b&version=2.4.0.5

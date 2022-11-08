@@ -1,0 +1,491 @@
+04:08:19 - Start List of Activate Plugins
+04:08:19 - classic-editor/classic-editor.php
+04:08:19 - contact-form-7/wp-contact-form-7.php
+04:08:19 - download-plugin/download-plugin.php
+04:08:19 - elementor-pro 2/elementor-pro.php
+04:08:19 - elementor/elementor.php
+04:08:19 - fusion-builder/fusion-builder.php
+04:08:19 - fusion-core/fusion-core.php
+04:08:19 - fusion-white-label-branding/fusion-white-label-branding.php
+04:08:19 - hongo-addons/hongo-addons.php
+04:08:19 - js_composer/js_composer.php
+04:08:19 - mailchimp-for-wp/mailchimp-for-wp.php
+04:08:19 - oliver-pos/oliver-pos.php
+04:08:19 - quick-view-woocommerce/xoo-quickview-main.php
+04:08:19 - revslider/revslider.php
+04:08:19 - woo-stripe-payment/stripe-payments.php
+04:08:19 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+04:08:19 - woocommerce-product-addons/woocommerce-product-addons.php
+04:08:19 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:08:19 - woocommerce-services/woocommerce-services.php
+04:08:19 - woocommerce-subscriptions/woocommerce-subscriptions.php
+04:08:19 - woocommerce/woocommerce.php
+04:08:19 - wp-file-manager/file_folder_manager.php
+04:08:19 - wp-phpmyadmin-extension/index.php
+04:08:19 - yith-woocommerce-multi-step-checkout-premium/init.php
+04:08:19 - End List of Activate Plugins
+04:08:20 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+04:11:35 - Start List of Activate Plugins
+04:11:35 - classic-editor/classic-editor.php
+04:11:35 - contact-form-7/wp-contact-form-7.php
+04:11:35 - download-plugin/download-plugin.php
+04:11:35 - elementor-pro 2/elementor-pro.php
+04:11:35 - elementor/elementor.php
+04:11:35 - fusion-builder/fusion-builder.php
+04:11:35 - fusion-core/fusion-core.php
+04:11:35 - fusion-white-label-branding/fusion-white-label-branding.php
+04:11:35 - hongo-addons/hongo-addons.php
+04:11:35 - js_composer/js_composer.php
+04:11:35 - mailchimp-for-wp/mailchimp-for-wp.php
+04:11:35 - oliver-pos/oliver-pos.php
+04:11:35 - quick-view-woocommerce/xoo-quickview-main.php
+04:11:35 - revslider/revslider.php
+04:11:35 - woo-stripe-payment/stripe-payments.php
+04:11:35 - woocommerce-gateway-stripe/woocommerce-gateway-stripe.php
+04:11:35 - woocommerce-product-addons/woocommerce-product-addons.php
+04:11:35 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:11:35 - woocommerce-services/woocommerce-services.php
+04:11:35 - woocommerce-subscriptions/woocommerce-subscriptions.php
+04:11:35 - woocommerce/woocommerce.php
+04:11:35 - wp-file-manager/file_folder_manager.php
+04:11:35 - wp-phpmyadmin-extension/index.php
+04:11:35 - yith-woocommerce-multi-step-checkout-premium/init.php
+04:11:35 - End List of Activate Plugins
+04:11:35 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+04:11:41 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+04:11:41 - Not occur wp_error
+04:11:41 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+04:11:41 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+04:11:41 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+04:11:41 - oliver_pos_subscription_udid = 6793131033
+04:11:41 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+04:15:53 - 590=product addons 0
+04:15:57 - Start create product trigger
+04:15:57 - End create product trigger
+04:15:57 - Start update product trigger
+04:15:57 - End update product trigger
+04:15:58 - Start update product trigger
+04:15:58 - End update product trigger
+04:15:58 - Start update product trigger
+04:15:58 - End update product trigger
+04:15:58 - Start update product trigger
+04:15:58 - End update product trigger
+04:16:03 - 162=product addons 0
+04:21:39 - Start create product trigger
+04:21:39 - End create product trigger
+04:21:40 - Start update product trigger
+04:21:40 - End update product trigger
+04:21:40 - Start update product trigger
+04:21:40 - End update product trigger
+04:21:40 - Start update product trigger
+04:21:40 - End update product trigger
+04:21:40 - Start update product trigger
+04:21:40 - End update product trigger
+04:46:37 - 590=product addons 0
+04:46:39 - Start create product trigger
+04:46:39 - End create product trigger
+04:46:39 - Start update product trigger
+04:46:39 - End update product trigger
+04:46:39 - Start update product trigger
+04:46:39 - End update product trigger
+04:46:40 - Start update product trigger
+04:46:40 - End update product trigger
+04:46:40 - Start update product trigger
+04:46:40 - End update product trigger
+04:46:46 - 162=product addons 0
+05:49:39 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+05:49:39 - Not occur wp_error
+05:49:39 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+05:49:39 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+05:49:39 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+05:49:39 - oliver_pos_subscription_udid = 6793131033
+05:49:39 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:04:08 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:04:09 - Not occur wp_error
+06:04:09 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+06:04:09 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:04:09 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:04:09 - oliver_pos_subscription_udid = 6793131033
+06:04:09 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:08:43 - params
+06:08:43 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:25;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:13:"Accent Pillow";s:3:"sku";s:5:"89503";s:7:"details";a:1:{i:0;a:1:{s:3:"Sku";s:5:"89503";}}s:8:"quantity";i:1;s:10:"product_id";i:158;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:25;s:5:"total";d:25;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:25;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 06:08:41";s:11:"description";s:0:"";s:14:"transection_id";s:36:"eb82c01c-746f-41ce-ae1d-28d91bb5c014";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";i:25;s:10:"totalPrice";i:25;}}i:1;a:26:{s:10:"product_id";i:158;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";i:25;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";i:25;s:5:"Price";i:25;s:5:"Title";s:13:"Accent Pillow";s:3:"Sku";s:5:"89503";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:63:"<p>Soft and colourful pillow with a fun geometric pattern.</p>
+";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000116";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:19.603353584904475;s:12:"_currentTime";s:19:"2022-10-03T11:38:39";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+06:08:43 - Create order
+06:08:43 - Check temp order id exist or not
+06:08:43 - No, temp order id not exist we create new order
+06:08:43 - New order trigger
+06:08:43 - set oliver pos receipt id
+06:08:43 - get customer id by email
+06:08:43 - Add order notes
+06:08:43 - Add order custom fee
+06:08:43 - before addons_meta_data
+06:08:43 - add order line items
+06:08:43 - Set order totals
+06:08:43 - Set order taxes
+06:08:43 - Set order addresses
+06:08:43 - Start fire extension trigger
+06:08:43 - Invalid client wordpress parameter
+06:08:43 - Start fire extension trigger
+06:08:43 - Invalid client wordpress parameter
+06:08:43 - Set order meta
+06:08:43 - Set order payments
+06:08:43 - Update order trigger
+06:08:43 - Start update product trigger
+06:08:43 - End update product trigger
+06:08:43 - unhook_oliver_order_emails_customer = 47188
+06:08:43 - email sent to customer
+06:08:43 - unhook_oliver_order_emails_admin = 47188
+06:08:43 - email sent to admin
+06:08:43 - unhook_oliver_order_emails_admin = 47188
+06:08:43 - email sent to admin
+06:08:43 - Update order trigger
+06:08:43 - Update order status
+06:08:43 - Execute cost of goods
+06:08:43 - Close order 47188
+06:08:52 - update order trigger delay
+06:45:08 - === post woo general setting ===
+06:45:13 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+06:45:13 - Not occur wp_error
+06:45:13 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+06:45:13 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:45:13 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+06:45:13 - oliver_pos_subscription_udid = 6793131033
+06:45:13 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+06:45:31 - params
+06:45:31 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:25;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:13:"Accent Pillow";s:3:"sku";s:5:"89503";s:7:"details";a:1:{i:0;a:1:{s:3:"Sku";s:5:"89503";}}s:8:"quantity";i:1;s:10:"product_id";i:158;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:25;s:5:"total";d:25;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:25;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 06:45:30";s:11:"description";s:0:"";s:14:"transection_id";s:36:"9df2cc77-59fe-44d2-ab21-9d5f1110db9a";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";i:25;s:10:"totalPrice";i:25;}}i:1;a:26:{s:10:"product_id";i:158;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";i:25;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";i:25;s:5:"Price";i:25;s:5:"Title";s:13:"Accent Pillow";s:3:"Sku";s:5:"89503";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:63:"<p>Soft and colourful pillow with a fun geometric pattern.</p>
+";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000117";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:19.603353584904475;s:12:"_currentTime";s:19:"2022-10-03T12:15:27";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+06:45:31 - Create order
+06:45:31 - Check temp order id exist or not
+06:45:31 - No, temp order id not exist we create new order
+06:45:31 - New order trigger
+06:45:31 - set oliver pos receipt id
+06:45:31 - get customer id by email
+06:45:31 - Add order notes
+06:45:31 - Add order custom fee
+06:45:31 - before addons_meta_data
+06:45:31 - add order line items
+06:45:31 - Set order totals
+06:45:31 - Set order taxes
+06:45:31 - Set order addresses
+06:45:31 - Start fire extension trigger
+06:45:31 - Invalid client wordpress parameter
+06:45:31 - Start fire extension trigger
+06:45:31 - Invalid client wordpress parameter
+06:45:31 - Set order meta
+06:45:31 - Set order payments
+06:45:31 - Update order trigger
+06:45:31 - Start update product trigger
+06:45:31 - End update product trigger
+06:45:31 - unhook_oliver_order_emails_customer = 47189
+06:45:31 - email sent to customer
+06:45:31 - unhook_oliver_order_emails_admin = 47189
+06:45:31 - email sent to admin
+06:45:31 - unhook_oliver_order_emails_admin = 47189
+06:45:31 - email sent to admin
+06:45:31 - Update order trigger
+06:45:31 - Update order status
+06:45:31 - Execute cost of goods
+06:45:31 - Close order 47189
+06:45:38 - update order trigger delay
+06:46:18 - Start refund order trigger from model
+06:46:18 - warehouse_id = 1
+06:46:18 - Start update product trigger
+06:46:18 - End update product trigger
+06:46:18 - Start refunded order line_item trigger 158
+06:46:18 - End refunded order line_item trigger 158
+06:46:18 - Update order trigger
+06:46:18 - Start refund order trigger
+06:46:18 - End refund order trigger
+06:46:18 - End refund order trigger from model
+06:46:20 - Update order trigger
+06:46:29 - update order trigger delay
+06:46:29 - Start refund order trigger delay
+06:46:31 - End refund order trigger delay
+11:08:16 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+11:08:16 - Not occur wp_error
+11:08:16 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+11:08:16 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:08:16 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+11:08:16 - oliver_pos_subscription_udid = 6793131033
+11:08:16 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:08:35 - warehouse_id = 2
+11:08:35 - product_id = 158
+11:08:35 - quantity = 7
+11:08:35 - else
+11:08:35 - warehouse_id = 2
+11:08:35 - product_id = 159
+11:08:35 - quantity = 50
+11:08:35 - else
+11:08:35 - warehouse_id = 2
+11:08:35 - product_id = 196
+11:08:35 - quantity = 90
+11:08:35 - else
+11:48:48 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+11:48:48 - Not occur wp_error
+11:48:48 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+11:48:48 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:48:48 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+11:48:48 - oliver_pos_subscription_udid = 6793131033
+11:48:48 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:50:16 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+11:50:16 - Not occur wp_error
+11:50:16 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+11:50:16 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:50:16 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+11:50:16 - oliver_pos_subscription_udid = 6793131033
+11:50:16 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:51:07 - params
+11:51:07 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:25;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:13:"Accent Pillow";s:3:"sku";s:5:"89503";s:7:"details";a:1:{i:0;a:1:{s:3:"Sku";s:5:"89503";}}s:8:"quantity";i:1;s:10:"product_id";i:158;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:25;s:5:"total";d:25;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:25;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 11:51:05";s:11:"description";s:0:"";s:14:"transection_id";s:36:"0cd583b3-1783-4e84-9ddf-b141f0a20508";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";i:25;s:10:"totalPrice";i:25;}}i:1;a:26:{s:10:"product_id";i:158;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";i:25;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";i:25;s:5:"Price";i:25;s:5:"Title";s:13:"Accent Pillow";s:3:"Sku";s:5:"89503";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:63:"<p>Soft and colourful pillow with a fun geometric pattern.</p>
+";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000118";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:19.603353584904475;s:12:"_currentTime";s:19:"2022-10-03T17:21:03";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+11:51:07 - Create order
+11:51:07 - Check temp order id exist or not
+11:51:07 - No, temp order id not exist we create new order
+11:51:07 - New order trigger
+11:51:07 - set oliver pos receipt id
+11:51:07 - get customer id by email
+11:51:07 - Add order notes
+11:51:07 - Add order custom fee
+11:51:07 - before addons_meta_data
+11:51:07 - add order line items
+11:51:07 - Set order totals
+11:51:07 - Set order taxes
+11:51:07 - Set order addresses
+11:51:07 - Start fire extension trigger
+11:51:07 - Invalid client wordpress parameter
+11:51:07 - Start fire extension trigger
+11:51:07 - Invalid client wordpress parameter
+11:51:07 - Set order meta
+11:51:07 - Set order payments
+11:51:07 - Update order trigger
+11:51:07 - Start update product trigger
+11:51:07 - End update product trigger
+11:51:07 - unhook_oliver_order_emails_customer = 47191
+11:51:07 - email sent to customer
+11:51:07 - unhook_oliver_order_emails_admin = 47191
+11:51:07 - email sent to admin
+11:51:07 - unhook_oliver_order_emails_admin = 47191
+11:51:07 - email sent to admin
+11:51:07 - Update order trigger
+11:51:07 - Update order status
+11:51:07 - Execute cost of goods
+11:51:07 - Close order 47191
+11:51:51 - Start refund order trigger from model
+11:51:51 - warehouse_id = 1
+11:51:52 - Start update product trigger
+11:51:52 - End update product trigger
+11:51:52 - Start refunded order line_item trigger 158
+11:51:52 - End refunded order line_item trigger 158
+11:51:52 - Update order trigger
+11:51:52 - Start refund order trigger
+11:51:52 - End refund order trigger
+11:51:52 - End refund order trigger from model
+11:51:53 - Update order trigger
+11:52:03 - update order trigger delay
+11:52:04 - Start refund order trigger delay
+11:52:05 - End refund order trigger delay
+11:52:46 - params
+11:52:46 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:25;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:13:"Accent Pillow";s:3:"sku";s:5:"89503";s:7:"details";a:1:{i:0;a:1:{s:3:"Sku";s:5:"89503";}}s:8:"quantity";i:1;s:10:"product_id";i:158;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:25;s:5:"total";d:25;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:25;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 11:52:45";s:11:"description";s:0:"";s:14:"transection_id";s:36:"643a239c-1ee0-4e02-933d-381568d74411";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";i:25;s:10:"totalPrice";i:25;}}i:1;a:26:{s:10:"product_id";i:158;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";i:25;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";i:25;s:5:"Price";i:25;s:5:"Title";s:13:"Accent Pillow";s:3:"Sku";s:5:"89503";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:63:"<p>Soft and colourful pillow with a fun geometric pattern.</p>
+";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000119";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:19.603353584904475;s:12:"_currentTime";s:19:"2022-10-03T17:22:43";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+11:52:46 - Create order
+11:52:46 - Check temp order id exist or not
+11:52:46 - No, temp order id not exist we create new order
+11:52:46 - New order trigger
+11:52:46 - set oliver pos receipt id
+11:52:46 - get customer id by email
+11:52:46 - Add order notes
+11:52:46 - Add order custom fee
+11:52:46 - before addons_meta_data
+11:52:46 - add order line items
+11:52:46 - Set order totals
+11:52:46 - Set order taxes
+11:52:46 - Set order addresses
+11:52:46 - Start fire extension trigger
+11:52:46 - Invalid client wordpress parameter
+11:52:46 - Start fire extension trigger
+11:52:46 - Invalid client wordpress parameter
+11:52:46 - Set order meta
+11:52:46 - Set order payments
+11:52:46 - Update order trigger
+11:52:47 - Start update product trigger
+11:52:47 - End update product trigger
+11:52:47 - unhook_oliver_order_emails_customer = 47193
+11:52:47 - email sent to customer
+11:52:47 - unhook_oliver_order_emails_admin = 47193
+11:52:47 - email sent to admin
+11:52:47 - unhook_oliver_order_emails_admin = 47193
+11:52:47 - email sent to admin
+11:52:47 - Update order trigger
+11:52:47 - Update order status
+11:52:47 - Execute cost of goods
+11:52:47 - Close order 47193
+11:52:54 - update order trigger delay
+11:53:43 - Start refund order trigger from model
+11:53:43 - warehouse_id = 1
+11:53:43 - Start update product trigger
+11:53:43 - End update product trigger
+11:53:43 - Start refunded order line_item trigger 158
+11:53:43 - End refunded order line_item trigger 158
+11:53:43 - Update order trigger
+11:53:43 - Start refund order trigger
+11:53:43 - End refund order trigger
+11:53:43 - End refund order trigger from model
+11:53:45 - Update order trigger
+11:53:53 - update order trigger delay
+11:53:53 - Start refund order trigger delay
+11:53:55 - End refund order trigger delay
+11:55:44 - Start create product trigger
+11:55:44 - End create product trigger
+11:55:44 - Start update product trigger
+11:55:44 - End update product trigger
+11:55:44 - Start update product trigger
+11:55:44 - End update product trigger
+11:55:45 - Start update product trigger
+11:55:45 - End update product trigger
+11:55:45 - Start update product trigger
+11:55:45 - End update product trigger
+11:56:06 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+11:56:06 - Not occur wp_error
+11:56:06 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+11:56:06 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:56:06 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+11:56:06 - oliver_pos_subscription_udid = 6793131033
+11:56:06 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+11:56:45 - params
+11:56:45 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:12.35;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:8:"test red";s:3:"sku";s:0:"";s:7:"details";a:0:{}s:8:"quantity";i:1;s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:12.35;s:5:"total";d:12.35;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:12.35;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 11:56:44";s:11:"description";s:0:"";s:14:"transection_id";s:36:"e3d97d63-cc1a-42c9-bd73-17f0d47524af";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";d:12.35;s:10:"totalPrice";d:12.35;}}i:1;a:26:{s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";d:12.35;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";d:12.35;s:5:"Price";d:12.35;s:5:"Title";s:8:"test red";s:3:"Sku";s:0:"";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:0:"";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000120";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:9.68405667094281;s:12:"_currentTime";s:19:"2022-10-03T17:26:42";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+11:56:45 - Create order
+11:56:45 - Check temp order id exist or not
+11:56:45 - No, temp order id not exist we create new order
+11:56:46 - New order trigger
+11:56:46 - set oliver pos receipt id
+11:56:46 - get customer id by email
+11:56:46 - Add order notes
+11:56:46 - Add order custom fee
+11:56:46 - before addons_meta_data
+11:56:46 - add order line items
+11:56:46 - Set order totals
+11:56:46 - Set order taxes
+11:56:46 - Set order addresses
+11:56:46 - Start fire extension trigger
+11:56:46 - Invalid client wordpress parameter
+11:56:46 - Start fire extension trigger
+11:56:46 - Invalid client wordpress parameter
+11:56:46 - Set order meta
+11:56:46 - Set order payments
+11:56:46 - Update order trigger
+11:56:46 - unhook_oliver_order_emails_customer = 47196
+11:56:46 - email sent to customer
+11:56:46 - unhook_oliver_order_emails_admin = 47196
+11:56:46 - email sent to admin
+11:56:46 - unhook_oliver_order_emails_admin = 47196
+11:56:46 - email sent to admin
+11:56:46 - Update order trigger
+11:56:46 - Update order status
+11:56:46 - Execute cost of goods
+11:56:46 - Close order 47196
+11:57:07 - update order trigger delay
+11:57:08 - Start refund order trigger from model
+11:57:08 - warehouse_id = 1
+11:57:08 - Update order trigger
+11:57:08 - Start refund order trigger
+11:57:08 - End refund order trigger
+11:57:08 - End refund order trigger from model
+11:57:10 - Update order trigger
+11:58:37 - update order trigger delay
+11:58:38 - Start refund order trigger delay
+11:58:39 - End refund order trigger delay
+12:17:02 - Start update product trigger
+12:17:02 - End update product trigger
+12:17:03 - Start update product trigger
+12:17:03 - End update product trigger
+12:17:03 - Start update product trigger
+12:17:03 - End update product trigger
+12:17:03 - Start update product trigger
+12:17:03 - End update product trigger
+12:17:12 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+12:17:12 - Not occur wp_error
+12:17:12 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+12:17:12 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+12:17:12 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+12:17:12 - oliver_pos_subscription_udid = 6793131033
+12:17:12 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+12:18:20 - params
+12:18:20 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:12.35;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:8:"test red";s:3:"sku";s:0:"";s:7:"details";a:0:{}s:8:"quantity";i:1;s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:12.3535;s:5:"total";d:12.3535;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:12.35;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 12:18:19";s:11:"description";s:0:"";s:14:"transection_id";s:36:"ddf1bd48-c21d-41b6-bac1-83dfc3cfd40d";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";d:12.35;s:10:"totalPrice";d:12.35;}}i:1;a:26:{s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";d:12.3535;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";d:12.3535;s:5:"Price";d:12.3535;s:5:"Title";s:8:"test red";s:3:"Sku";s:0:"";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:0:"";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000121";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:9.68405667094281;s:12:"_currentTime";s:19:"2022-10-03T17:48:17";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+12:18:20 - Create order
+12:18:20 - Check temp order id exist or not
+12:18:20 - No, temp order id not exist we create new order
+12:18:20 - New order trigger
+12:18:20 - set oliver pos receipt id
+12:18:20 - get customer id by email
+12:18:20 - Add order notes
+12:18:20 - Add order custom fee
+12:18:20 - before addons_meta_data
+12:18:20 - add order line items
+12:18:20 - Set order totals
+12:18:20 - Set order taxes
+12:18:20 - Set order addresses
+12:18:20 - Start fire extension trigger
+12:18:20 - Invalid client wordpress parameter
+12:18:20 - Start fire extension trigger
+12:18:20 - Invalid client wordpress parameter
+12:18:20 - Set order meta
+12:18:20 - Set order payments
+12:18:20 - Update order trigger
+12:18:20 - unhook_oliver_order_emails_customer = 47199
+12:18:20 - email sent to customer
+12:18:20 - unhook_oliver_order_emails_admin = 47199
+12:18:20 - email sent to admin
+12:18:20 - unhook_oliver_order_emails_admin = 47199
+12:18:20 - email sent to admin
+12:18:20 - Update order trigger
+12:18:20 - Update order status
+12:18:20 - Execute cost of goods
+12:18:20 - Close order 47199
+12:18:28 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+12:18:28 - Not occur wp_error
+12:18:28 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+12:18:28 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+12:18:28 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+12:18:28 - oliver_pos_subscription_udid = 6793131033
+12:18:28 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+12:19:06 - params
+12:19:06 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:12.35;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:8:"test red";s:3:"sku";s:0:"";s:7:"details";a:0:{}s:8:"quantity";i:1;s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:12.3535;s:5:"total";d:12.3535;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:12.35;s:4:"type";s:4:"cash";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-10-03 12:19:05";s:11:"description";s:0:"";s:14:"transection_id";s:36:"f589b9b2-faf2-487f-9be5-4b43596bdcdf";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";d:12.35;s:10:"totalPrice";d:12.35;}}i:1;a:26:{s:10:"product_id";i:47195;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";d:12.3535;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";d:12.3535;s:5:"Price";d:12.3535;s:5:"Title";s:8:"test red";s:3:"Sku";s:0:"";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:0:"";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: cash";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101031022000122";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:9.68405667094281;s:12:"_currentTime";s:19:"2022-10-03T17:49:03";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+12:19:06 - Create order
+12:19:06 - Check temp order id exist or not
+12:19:06 - No, temp order id not exist we create new order
+12:19:06 - New order trigger
+12:19:06 - set oliver pos receipt id
+12:19:06 - get customer id by email
+12:19:06 - Add order notes
+12:19:06 - Add order custom fee
+12:19:06 - before addons_meta_data
+12:19:06 - add order line items
+12:19:06 - Set order totals
+12:19:06 - Set order taxes
+12:19:06 - Set order addresses
+12:19:06 - Start fire extension trigger
+12:19:06 - Invalid client wordpress parameter
+12:19:06 - Start fire extension trigger
+12:19:06 - Invalid client wordpress parameter
+12:19:06 - Set order meta
+12:19:06 - Set order payments
+12:19:06 - Update order trigger
+12:19:07 - unhook_oliver_order_emails_customer = 47200
+12:19:07 - email sent to customer
+12:19:07 - unhook_oliver_order_emails_admin = 47200
+12:19:07 - email sent to admin
+12:19:07 - unhook_oliver_order_emails_admin = 47200
+12:19:07 - email sent to admin
+12:19:07 - Update order trigger
+12:19:07 - Update order status
+12:19:07 - Execute cost of goods
+12:19:07 - Close order 47200
+12:19:07 - update order trigger delay
+12:19:51 - Start refund order trigger from model
+12:19:51 - warehouse_id = 1
+12:19:51 - Update order trigger
+12:19:51 - Start refund order trigger
+12:19:51 - End refund order trigger
+12:19:51 - End refund order trigger from model
+12:19:52 - Update order trigger
+12:21:03 - Start refund order trigger delay
+12:21:05 - End refund order trigger delay

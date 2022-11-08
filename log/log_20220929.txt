@@ -1,0 +1,36 @@
+12:13:17 - params
+12:13:17 - a:1:{s:5:"order";a:1:{i:0;a:38:{s:8:"order_id";i:0;s:6:"status";s:12:"wc-completed";s:13:"customer_note";s:8:"Add Note";s:11:"customer_id";i:0;s:14:"customer_email";s:0:"";s:9:"order_tax";d:0;s:11:"order_total";d:25;s:14:"order_discount";d:0;s:12:"refunded_tax";d:0;s:13:"refundedtotal";d:0;s:6:"tax_id";i:0;s:7:"tax_ids";a:0:{}s:10:"line_items";a:1:{i:0;a:36:{s:12:"line_item_id";i:0;s:4:"name";s:13:"Accent Pillow";s:3:"sku";s:5:"89503";s:7:"details";a:1:{i:0;a:1:{s:3:"Sku";s:5:"89503";}}s:8:"quantity";i:1;s:10:"product_id";i:158;s:12:"variation_id";i:0;s:12:"subtotal_tax";d:0;s:14:"subtotal_taxes";a:0:{}s:9:"total_tax";d:0;s:11:"total_taxes";a:0:{}s:15:"total_discounts";N;s:8:"subtotal";d:25;s:5:"total";d:25;s:5:"price";d:0;s:13:"cost_per_item";d:0;s:17:"quantity_refunded";i:0;s:15:"amount_refunded";d:0;s:9:"isTaxable";b:1;s:14:"ProductSummery";N;s:11:"ticket_info";a:0:{}s:9:"is_ticket";b:0;s:9:"parent_id";i:0;s:5:"Taxes";N;s:21:"composite_product_key";N;s:20:"composite_parent_key";N;s:18:"bundle_product_key";N;s:18:"bundled_parent_key";N;s:22:"pricing_item_meta_data";N;s:16:"addons_meta_data";s:0:"";s:9:"meta_data";s:0:"";s:4:"meta";N;s:15:"discount_amount";d:0;s:8:"psummary";s:0:"";s:26:"individual_discount_amount";d:0;s:25:"cart_item_discount_amount";d:0;}}s:19:"productx_line_items";a:0:{}s:15:"billing_address";a:1:{i:0;a:11:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:12:"139 Water St";s:9:"address_2";s:0:"";s:4:"city";s:10:"St. John's";s:5:"state";s:2:"NL";s:8:"postcode";s:7:"A1C 1B2";s:7:"country";s:6:"Canada";s:5:"email";s:0:"";s:5:"phone";s:0:"";}}s:16:"shipping_address";a:1:{i:0;a:9:{s:10:"first_name";s:0:"";s:9:"last_name";s:0:"";s:7:"company";s:0:"";s:9:"address_1";s:0:"";s:9:"address_2";s:0:"";s:4:"city";s:0:"";s:5:"state";s:0:"";s:8:"postcode";s:0:"";s:7:"country";s:0:"";}}s:16:"order_custom_fee";a:0:{}s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";i:0;s:4:"note";s:23:"Payment done with: card";s:16:"is_customer_note";b:0;s:17:"is_extension_note";b:1;}}s:14:"order_payments";a:1:{i:0;a:7:{s:2:"Id";i:0;s:6:"amount";d:25;s:4:"type";s:4:"card";s:12:"payment_type";s:5:"order";s:12:"payment_date";s:19:"2022-09-29 12:13:15";s:11:"description";s:0:"";s:14:"transection_id";s:36:"1e18475d-74d1-43f2-9dd9-58ae894cca7d";}}s:10:"order_meta";a:1:{i:0;a:16:{s:10:"manager_id";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:12:"manager_name";s:15:"jitendra dhakad";s:11:"location_id";i:1;s:11:"register_id";i:1;s:12:"warehouse_id";i:1;s:13:"cash_rounding";d:0;s:20:"refund_cash_rounding";d:0;s:31:"_order_oliverpos_extension_data";s:0:"";s:28:"_wc_points_logged_redemption";s:0:"";s:40:"_order_oliverpos_product_discount_amount";a:5:{i:0;a:1:{s:21:"total_subTotal_fileds";a:2:{s:8:"subTotal";i:25;s:10:"totalPrice";i:25;}}i:1;a:26:{s:10:"product_id";i:158;s:12:"variation_id";i:0;s:23:"product_discount_amount";i:0;s:20:"cart_discount_amount";i:0;s:13:"discount_type";s:0:"";s:14:"after_discount";i:25;s:15:"discount_amount";i:0;s:19:"cart_after_discount";i:0;s:22:"product_after_discount";i:0;s:13:"ticket_status";b:0;s:13:"tick_event_id";N;s:11:"ticket_info";a:0:{}s:14:"product_ticket";s:0:"";s:27:"new_product_discount_amount";i:0;s:9:"TaxStatus";s:7:"taxable";s:12:"tcForSeating";a:0:{}s:8:"TaxClass";s:0:"";s:9:"old_price";i:25;s:5:"Price";i:25;s:5:"Title";s:13:"Accent Pillow";s:3:"Sku";s:5:"89503";s:8:"quantity";i:1;s:12:"discountCart";s:0:"";s:9:"isTaxable";b:1;s:16:"shortDescription";s:63:"<p>Soft and colourful pillow with a fun geometric pattern.</p>
+";s:8:"psummary";s:0:"";}i:2;a:1:{s:16:"order_custom_fee";a:0:{}}i:3;a:1:{s:11:"order_notes";a:1:{i:0;a:4:{s:7:"note_id";s:0:"";s:4:"note";s:23:"Payment done with: card";s:16:"is_customer_note";i:0;s:17:"is_extension_note";b:1;}}}i:4;a:1:{s:7:"taxType";s:3:"Tax";}}s:28:"_order_oliverpos_cash_change";a:2:{s:11:"cashPayment";i:0;s:6:"change";i:0;}s:27:"_order_oliverpos_group_name";N;s:27:"_order_oliverpos_group_slug";N;s:29:"_order_oliverpos_group_qrcode";N;s:28:"_order_oliverpos_group_label";N;s:23:"_order_oliverpos_coupon";N;}}s:4:"udid";i:6793131033;s:21:"oliver_pos_receipt_id";s:16:"0101290922000115";s:11:"device_type";s:7:"Desktop";s:9:"device_id";s:0:"";s:9:"device_ip";N;s:11:"_clientGUID";s:36:"7678b5dd-b3a4-46a9-b6bf-c2a4f698861f";s:10:"_clientUrl";s:42:"wordpress-195737-2866416.cloudwaysapps.com";s:9:"_shopName";s:13:"Avada Classic";s:9:"_userGUID";s:36:"069658ef-4e3f-48f8-9dcc-d6e25212a19c";s:9:"_currency";s:3:"CAD";s:8:"_country";s:5:"CA:NL";s:16:"_countryFullName";s:6:"Canada";s:13:"_managerEmail";s:13:"dkd@gmail.com";s:18:"_usdConversionRate";d:0.784134143396179;s:12:"_amountInUSD";d:19.603353584904475;s:12:"_currentTime";s:19:"2022-09-29T17:43:14";s:13:"customer_name";N;s:16:"customer_address";N;}}}
+12:13:17 - Create order
+12:13:17 - Check temp order id exist or not
+12:13:17 - No, temp order id not exist we create new order
+12:13:17 - New order trigger
+12:13:17 - set oliver pos receipt id
+12:13:17 - get customer id by email
+12:13:17 - Add order notes
+12:13:17 - Add order custom fee
+12:13:17 - before addons_meta_data
+12:13:17 - add order line items
+12:13:17 - Set order totals
+12:13:17 - Set order taxes
+12:13:17 - Set order addresses
+12:13:17 - Start fire extension trigger
+12:13:17 - Invalid client wordpress parameter
+12:13:17 - Start fire extension trigger
+12:13:17 - Invalid client wordpress parameter
+12:13:17 - Set order meta
+12:13:17 - Set order payments
+12:13:17 - Update order trigger
+12:13:17 - Start update product trigger
+12:13:17 - End update product trigger
+12:13:17 - unhook_oliver_order_emails_customer = 47179
+12:13:17 - email sent to customer
+12:13:18 - unhook_oliver_order_emails_admin = 47179
+12:13:18 - email sent to admin
+12:13:18 - unhook_oliver_order_emails_admin = 47179
+12:13:18 - email sent to admin
+12:13:18 - Update order trigger
+12:13:18 - Update order status
+12:13:18 - Execute cost of goods
+12:13:18 - Close order 47179
+12:13:27 - update order trigger delay

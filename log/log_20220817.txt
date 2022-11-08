@@ -1,0 +1,329 @@
+11:26:34 - Start List of Activate Plugins
+11:26:34 - ameliabooking/ameliabooking.php
+11:26:34 - google-listings-and-ads/google-listings-and-ads.php
+11:26:34 - jetpack/jetpack.php
+11:26:34 - malcare-security/malcare.php
+11:26:34 - oliver-pos/oliver-pos.php
+11:26:34 - woocommerce-services/woocommerce-services.php
+11:26:34 - woocommerce/woocommerce.php
+11:26:34 - End List of Activate Plugins
+11:26:34 - trigger_update_version_number = https://app.oliverpos.com/api/WCBridge/ChangeBridgeVersion/?clientId=26548a01-97df-4122-b3f7-221c8188ae1b&version=2.4.0.5
+12:40:36 - Create order
+12:40:36 - Check temp order id exist or not
+12:40:36 - No, temp order id not exist we create new order
+12:40:36 - New order trigger
+12:40:36 - set oliver pos receipt id
+12:40:36 - get customer id by email
+12:40:36 - Add order notes
+12:40:36 - Add order custom fee
+12:40:37 - before addons_meta_data
+12:40:37 - before addons_meta_data
+12:40:37 - before addons_meta_data
+12:40:37 - before addons_meta_data
+12:40:37 - before addons_meta_data
+12:40:37 - add order line items
+12:40:37 - Set order totals
+12:40:37 - Set order taxes
+12:40:37 - Set order addresses
+12:40:37 - Start fire extension trigger
+12:40:37 - Invalid client wordpress parameter
+12:40:37 - Start fire extension trigger
+12:40:37 - Invalid client wordpress parameter
+12:40:37 - Set order meta
+12:40:37 - Set order payments
+12:40:37 - Update order trigger
+12:40:37 - Start update product trigger
+12:40:37 - End update product trigger
+12:40:38 - Start update product trigger
+12:40:38 - End update product trigger
+12:40:38 - Start update product trigger
+12:40:38 - End update product trigger
+12:40:38 - Start update product trigger
+12:40:38 - End update product trigger
+12:40:38 - Start update product trigger
+12:40:38 - End update product trigger
+12:40:39 - unhook_oliver_order_emails_customer = 648
+12:40:39 - email sent to customer
+12:40:39 - unhook_oliver_order_emails_admin = 648
+12:40:39 - email sent to admin
+12:40:39 - unhook_oliver_order_emails_admin = 648
+12:40:39 - email sent to admin
+12:40:39 - Update order trigger
+12:40:39 - Update order status
+12:40:39 - Execute cost of goods
+12:40:39 - Close order 648
+12:41:14 - ===== ===== ===== ===== =====
+12:41:14 - start create_user()
+12:41:14 - Start create user trigger
+12:41:14 - Stop create user trigger
+12:41:14 - Create new customer using wc_create_new_customer()
+12:41:14 - === === ===
+12:41:14 - Start oliver_pos_update_customer trigger
+12:41:14 - Stop oliver_pos_update_customer trigger
+12:41:14 - Set customer information
+12:41:14 - === === ===
+12:41:14 - Start oliver_pos_update_customer trigger
+12:41:14 - Stop oliver_pos_update_customer trigger
+12:41:14 - set customer billing address
+12:41:14 - Close create_user()
+12:41:16 - Update order trigger
+12:41:16 - unhook_oliver_order_emails_customer = 648
+12:41:16 - email sent to customer
+12:41:16 - unhook_oliver_order_emails_customer = jordan@oliverpos.com
+12:41:16 - email sent to customer
+12:41:16 - unhook_oliver_order_emails_customer = 648
+12:41:16 - email sent to customer
+12:41:16 - unhook_oliver_order_emails_customer = jordan@oliverpos.com
+12:41:16 - email sent to customer
+12:43:03 - Create order
+12:43:03 - Check temp order id exist or not
+12:43:03 - No, temp order id not exist we create new order
+12:43:03 - New order trigger
+12:43:03 - set oliver pos receipt id
+12:43:03 - get customer id by email
+12:43:03 - Add order notes
+12:43:03 - Add order custom fee
+12:43:03 - before addons_meta_data
+12:43:03 - before addons_meta_data
+12:43:04 - before addons_meta_data
+12:43:04 - before addons_meta_data
+12:43:04 - add order line items
+12:43:04 - Set order totals
+12:43:04 - Set order taxes
+12:43:04 - Set order addresses
+12:43:04 - Start fire extension trigger
+12:43:04 - Invalid client wordpress parameter
+12:43:04 - Start fire extension trigger
+12:43:04 - Invalid client wordpress parameter
+12:43:04 - Set order meta
+12:43:04 - Set order payments
+12:43:04 - Update order trigger
+12:43:04 - Update order status
+12:43:04 - Execute cost of goods
+12:43:04 - Close order 649
+12:48:44 - Create order
+12:48:44 - Check temp order id exist or not
+12:48:44 - No, temp order id not exist we create new order
+12:48:45 - New order trigger
+12:48:45 - set oliver pos receipt id
+12:48:45 - get customer id by email
+12:48:45 - Add order notes
+12:48:45 - Add order custom fee
+12:48:45 - before addons_meta_data
+12:48:45 - before addons_meta_data
+12:48:45 - before addons_meta_data
+12:48:45 - add order line items
+12:48:45 - Set order totals
+12:48:45 - Set order taxes
+12:48:45 - Set order addresses
+12:48:45 - Start fire extension trigger
+12:48:45 - Invalid client wordpress parameter
+12:48:45 - Start fire extension trigger
+12:48:45 - Invalid client wordpress parameter
+12:48:45 - Set order meta
+12:48:45 - Set order payments
+12:48:45 - Update order trigger
+12:48:45 - Update order status
+12:48:45 - Execute cost of goods
+12:48:45 - Close order 650
+12:53:45 - Create order
+12:53:45 - Check temp order id exist or not
+12:53:45 - No, temp order id not exist we create new order
+12:53:45 - New order trigger
+12:53:45 - set oliver pos receipt id
+12:53:45 - get customer id by email
+12:53:45 - Add order notes
+12:53:45 - Add order custom fee
+12:53:45 - before addons_meta_data
+12:53:45 - add order line items
+12:53:45 - Set order totals
+12:53:45 - Set order taxes
+12:53:45 - Set order addresses
+12:53:45 - Start fire extension trigger
+12:53:45 - Invalid client wordpress parameter
+12:53:45 - Start fire extension trigger
+12:53:45 - Invalid client wordpress parameter
+12:53:45 - Set order meta
+12:53:45 - Set order payments
+12:53:45 - Update order trigger
+12:53:46 - Start update product trigger
+12:53:46 - End update product trigger
+12:53:46 - unhook_oliver_order_emails_customer = 651
+12:53:46 - email sent to customer
+12:53:46 - unhook_oliver_order_emails_admin = 651
+12:53:46 - email sent to admin
+12:53:46 - unhook_oliver_order_emails_admin = 651
+12:53:46 - email sent to admin
+12:53:46 - Update order trigger
+12:53:46 - Update order status
+12:53:46 - Execute cost of goods
+12:53:46 - Close order 651
+13:32:07 - Create order
+13:32:07 - Check temp order id exist or not
+13:32:07 - No, temp order id not exist we create new order
+13:32:07 - New order trigger
+13:32:07 - set oliver pos receipt id
+13:32:07 - get customer id by email
+13:32:07 - Add order notes
+13:32:07 - Add order custom fee
+13:32:07 - before addons_meta_data
+13:32:07 - add order line items
+13:32:07 - Set order totals
+13:32:07 - Set order taxes
+13:32:07 - Set order addresses
+13:32:07 - Start fire extension trigger
+13:32:07 - Invalid client wordpress parameter
+13:32:07 - Start fire extension trigger
+13:32:07 - Invalid client wordpress parameter
+13:32:07 - Set order meta
+13:32:07 - Set order payments
+13:32:07 - Update order trigger
+13:32:07 - Update order status
+13:32:07 - Execute cost of goods
+13:32:07 - Close order 652
+13:34:28 - Create order
+13:34:28 - Check temp order id exist or not
+13:34:28 - No, temp order id not exist we create new order
+13:34:29 - New order trigger
+13:34:29 - set oliver pos receipt id
+13:34:29 - get customer id by email
+13:34:29 - Add order notes
+13:34:29 - Add order custom fee
+13:34:29 - before addons_meta_data
+13:34:29 - before addons_meta_data
+13:34:30 - before addons_meta_data
+13:34:30 - add order line items
+13:34:30 - Set order totals
+13:34:30 - Set order taxes
+13:34:30 - Set order addresses
+13:34:30 - Start fire extension trigger
+13:34:30 - Invalid client wordpress parameter
+13:34:30 - Start fire extension trigger
+13:34:30 - Invalid client wordpress parameter
+13:34:30 - Set order meta
+13:34:30 - Set order payments
+13:34:30 - Update order trigger
+13:34:31 - Start update product trigger
+13:34:31 - End update product trigger
+13:34:32 - Start update product trigger
+13:34:32 - End update product trigger
+13:34:32 - Start update product trigger
+13:34:32 - End update product trigger
+13:34:32 - unhook_oliver_order_emails_customer = 653
+13:34:32 - email sent to customer
+13:34:32 - unhook_oliver_order_emails_admin = 653
+13:34:32 - email sent to admin
+13:34:32 - unhook_oliver_order_emails_admin = 653
+13:34:32 - email sent to admin
+13:34:33 - Update order trigger
+13:34:33 - Update order status
+13:34:33 - Execute cost of goods
+13:34:33 - Close order 653
+13:37:07 - Create order
+13:37:07 - Check temp order id exist or not
+13:37:07 - No, temp order id not exist we create new order
+13:37:08 - New order trigger
+13:37:08 - set oliver pos receipt id
+13:37:08 - get customer id by email
+13:37:08 - Add order notes
+13:37:08 - Add order custom fee
+13:37:08 - before addons_meta_data
+13:37:08 - add order line items
+13:37:08 - Set order totals
+13:37:08 - Set order taxes
+13:37:08 - Set order addresses
+13:37:08 - Start fire extension trigger
+13:37:08 - Invalid client wordpress parameter
+13:37:08 - Start fire extension trigger
+13:37:08 - Invalid client wordpress parameter
+13:37:08 - Set order meta
+13:37:08 - Set order payments
+13:37:08 - Update order trigger
+13:37:08 - Update order status
+13:37:08 - Execute cost of goods
+13:37:08 - Close order 654
+13:37:24 - ===== ===== ===== ===== =====
+13:37:24 - start create_user()
+13:37:24 - Start create user trigger
+13:37:24 - Stop create user trigger
+13:37:24 - Create new customer using wc_create_new_customer()
+13:37:24 - === === ===
+13:37:24 - Start oliver_pos_update_customer trigger
+13:37:24 - Stop oliver_pos_update_customer trigger
+13:37:24 - Set customer information
+13:37:24 - === === ===
+13:37:24 - Start oliver_pos_update_customer trigger
+13:37:25 - Stop oliver_pos_update_customer trigger
+13:37:25 - set customer billing address
+13:37:25 - Close create_user()
+13:37:26 - Update order trigger
+13:37:26 - unhook_oliver_order_emails_customer = 654
+13:37:26 - email sent to customer
+13:37:26 - unhook_oliver_order_emails_customer = ozanyeni@gmail.com
+13:37:26 - email sent to customer
+13:37:26 - unhook_oliver_order_emails_customer = 654
+13:37:26 - email sent to customer
+13:37:26 - unhook_oliver_order_emails_customer = ozanyeni@gmail.com
+13:37:26 - email sent to customer
+13:42:02 - Create order
+13:42:02 - Check temp order id exist or not
+13:42:02 - No, temp order id not exist we create new order
+13:42:02 - New order trigger
+13:42:03 - set oliver pos receipt id
+13:42:03 - get customer id by email
+13:42:03 - Add order notes
+13:42:03 - Add order custom fee
+13:42:03 - before addons_meta_data
+13:42:03 - before addons_meta_data
+13:42:03 - before addons_meta_data
+13:42:03 - add order line items
+13:42:03 - Set order totals
+13:42:03 - Set order taxes
+13:42:03 - Set order addresses
+13:42:03 - Start fire extension trigger
+13:42:03 - Invalid client wordpress parameter
+13:42:03 - Start fire extension trigger
+13:42:03 - Invalid client wordpress parameter
+13:42:03 - Set order meta
+13:42:03 - Set order payments
+13:42:03 - Update order trigger
+13:42:04 - Start update product trigger
+13:42:04 - End update product trigger
+13:42:04 - Start update product trigger
+13:42:04 - End update product trigger
+13:42:04 - unhook_oliver_order_emails_customer = 655
+13:42:04 - email sent to customer
+13:42:04 - unhook_oliver_order_emails_admin = 655
+13:42:04 - email sent to admin
+13:42:04 - unhook_oliver_order_emails_admin = 655
+13:42:04 - email sent to admin
+13:42:05 - Update order trigger
+13:42:05 - Update order status
+13:42:05 - Execute cost of goods
+13:42:05 - Close order 655
+13:42:05 - Start update product trigger
+13:42:05 - End update product trigger
+14:15:05 - Create order
+14:15:05 - Check temp order id exist or not
+14:15:05 - No, temp order id not exist we create new order
+14:15:05 - New order trigger
+14:15:05 - set oliver pos receipt id
+14:15:05 - get customer id by email
+14:15:05 - Add order notes
+14:15:05 - Add order custom fee
+14:15:05 - before addons_meta_data
+14:15:05 - before addons_meta_data
+14:15:05 - add order line items
+14:15:05 - Set order totals
+14:15:05 - Set order taxes
+14:15:05 - Set order addresses
+14:15:05 - Start fire extension trigger
+14:15:05 - Invalid client wordpress parameter
+14:15:05 - Start fire extension trigger
+14:15:05 - Invalid client wordpress parameter
+14:15:06 - Set order meta
+14:15:06 - Set order payments
+14:15:06 - Update order trigger
+14:15:06 - Update order status
+14:15:06 - Execute cost of goods
+14:15:06 - Close order 656

@@ -1,0 +1,56 @@
+04:48:40 - Start List of Activate Plugins
+04:48:40 - ameliabooking/ameliabooking.php
+04:48:40 - calculate-prices-based-on-distance-for-woocommerce/calculate-prices-based-on-distance-for-woocommerce.php
+04:48:40 - google-listings-and-ads/google-listings-and-ads.php
+04:48:40 - jetpack/jetpack.php
+04:48:40 - malcare-security/malcare.php
+04:48:40 - oliver-pos/oliver-pos.php
+04:48:40 - woocommerce-product-bundles/woocommerce-product-bundles.php
+04:48:40 - woocommerce-services/woocommerce-services.php
+04:48:40 - woocommerce/woocommerce.php
+04:48:40 - End List of Activate Plugins
+04:48:40 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+05:35:50 - === post woo general setting ===
+05:36:04 - === post woo general setting ===
+05:39:38 - === post woo general setting ===
+17:35:26 - activate plugin
+17:36:48 - Start List of Activate Plugins
+17:36:48 - ameliabooking/ameliabooking.php
+17:36:48 - calculate-prices-based-on-distance-for-woocommerce/calculate-prices-based-on-distance-for-woocommerce.php
+17:36:48 - google-listings-and-ads/google-listings-and-ads.php
+17:36:48 - jetpack/jetpack.php
+17:36:48 - malcare-security/malcare.php
+17:36:48 - oliver-pos/oliver-pos.php
+17:36:48 - woo-discount-rules/woo-discount-rules.php
+17:36:48 - woocommerce-product-bundles/woocommerce-product-bundles.php
+17:36:48 - woocommerce-services/woocommerce-services.php
+17:36:48 - woocommerce/woocommerce.php
+17:36:48 - End List of Activate Plugins
+17:36:48 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+17:47:41 - activate plugin
+17:48:49 - Start List of Activate Plugins
+17:48:49 - ameliabooking/ameliabooking.php
+17:48:49 - calculate-prices-based-on-distance-for-woocommerce/calculate-prices-based-on-distance-for-woocommerce.php
+17:48:49 - easy-woocommerce-discounts/easy-woocommerce-discounts.php
+17:48:49 - google-listings-and-ads/google-listings-and-ads.php
+17:48:49 - jetpack/jetpack.php
+17:48:49 - malcare-security/malcare.php
+17:48:49 - oliver-pos/oliver-pos.php
+17:48:49 - woo-discount-rules/woo-discount-rules.php
+17:48:49 - woocommerce-product-bundles/woocommerce-product-bundles.php
+17:48:49 - woocommerce-services/woocommerce-services.php
+17:48:49 - woocommerce/woocommerce.php
+17:48:49 - End List of Activate Plugins
+17:48:49 - trigger_update_version_number = https://dev1.app.olivertest.com/api/WCBridge/ChangeBridgeVersion/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f&version=2.4.0.5
+17:49:39 - Try connect url = https://dev1.app.olivertest.com/api/v1/Account/Connect/?source=https://wordpress-195737-2866416.cloudwaysapps.com&token=4d9a45509022bcbe8ef8c8a29d824003&version=2.4.0.5
+17:49:39 - Not occur wp_error
+17:49:40 - oliver_pos_subscription_autologin_token = S6kFuU4mGwYCNfMTk762va+GOEuIofT4xdB6VUBnzMyHChCd9xrJ3dgWlpymq3M8bjfSI2HcvQvg9ubsOx9gddauP3W08XizOWTzFdVk0hQ=
+17:49:40 - oliver_pos_subscription_email = 7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+17:49:40 - oliver_pos_subscription_token = 6ba78601-9fb0-4584-9419-eaeb569bd2b2
+17:49:40 - oliver_pos_subscription_udid = 6793131033
+17:49:40 - trigger_bridge_details = https://dev1.app.olivertest.com/api/WCBridge/TriggerBridgeDetail/?clientId=7678b5dd-b3a4-46a9-b6bf-c2a4f698861f
+17:50:29 - activate plugin
+17:50:30 - de-activate plugin
+17:50:30 - activate plugin
+17:53:24 - de-activate plugin
+17:53:24 - activate plugin

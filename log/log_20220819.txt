@@ -1,0 +1,33 @@
+12:32:36 - Create order
+12:32:36 - Check temp order id exist or not
+12:32:36 - No, temp order id not exist we create new order
+12:32:36 - New order trigger
+12:32:36 - set oliver pos receipt id
+12:32:36 - get customer id by email
+12:32:36 - Add order notes
+12:32:36 - Add order custom fee
+12:32:36 - before addons_meta_data
+12:32:36 - add order line items
+12:32:36 - Set order totals
+12:32:36 - Set order taxes
+12:32:36 - Set order addresses
+12:32:36 - Start fire extension trigger
+12:32:36 - Invalid client wordpress parameter
+12:32:36 - Start fire extension trigger
+12:32:36 - Invalid client wordpress parameter
+12:32:36 - Set order meta
+12:32:36 - Set order payments
+12:32:37 - Update order trigger
+12:32:37 - unhook_oliver_order_emails_customer = 661
+12:32:37 - email sent to customer
+12:32:37 - unhook_oliver_order_emails_admin = 661
+12:32:37 - email sent to admin
+12:32:37 - unhook_oliver_order_emails_admin = 661
+12:32:37 - email sent to admin
+12:32:37 - Update order trigger
+12:32:37 - Update order status
+12:32:37 - Execute cost of goods
+12:32:37 - Close order 661
+12:32:37 - Start update product trigger
+12:32:37 - End update product trigger
+12:32:45 - update order trigger delay
